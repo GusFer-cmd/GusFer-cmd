@@ -1,7 +1,7 @@
 ## Olá, meu nome é Gustavo Fernandes
 
 - 🌱 I’m currently learning: I.S at Universidade Federal do Ceará (UFC).
-- 📫 How to reach me: g.fernandes.qxd@gmail.com
+- 📫 How to reach me: g.devfernandes@gmail.com
 - ⚡ Fun fact: The Firefox logo isn't a fox
 
 <picture>
